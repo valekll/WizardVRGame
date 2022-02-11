@@ -6,4 +6,4 @@ where you are a wizard who can shoot fireballs, levitate objects, and teleport a
 You are free to interact in real time with anyone in game including shooting them with fireballs 
 and blocking with intercepting blocks.
 
-Demo videos of the game can be found in the Demo directory.
+A demo video of the game can be found in the Demo directory.
